@@ -44,7 +44,7 @@ RELEASE_LATEST=''
 PRE_RELEASE_LATEST=''
 
 # Xray version will be installed
-INSTALL_VERSION=''
+INSTALL_VERSION='v1.7.5'
 
 # install
 INSTALL='0'
